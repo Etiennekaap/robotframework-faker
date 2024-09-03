@@ -1,5 +1,10 @@
 Changelog for robotframework-faker
 ===========================
+6.0.0 (2024-??-??)
+------------------
+
+- Dropped Python 3.7 support since faker no longer supports it.
+- Dropped support for 32 bit systems since faker no longer supports it.
 
 5.0.0 (2020-01-30)
 ------------------
